@@ -19,3 +19,13 @@
 
 - Strategy
     - internal/buscompany.go:PriceCalculator
+
+## Run
+
+```bash
+go run main.go
+```
+
+## Links
+
+- https://medium.com/better-programming/learn-go-by-building-a-bus-service-6c11e7b81b92
