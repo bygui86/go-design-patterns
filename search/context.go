@@ -1,11 +1,11 @@
 package main
 
 type user struct {
-	strategy Strategy
+	strategy SearchStrategy
 	filters  map[string]int
 }
 
-func initUser(strategy Strategy) *user {
+func initUser(strategy SearchStrategy) *user {
 	filters := make(map[string]int)
 	return &user{
 		strategy: strategy,
@@ -13,7 +13,7 @@ func initUser(strategy Strategy) *user {
 	}
 }
 
-func (u *user) setStrategy(strategy Strategy) {
+func (u *user) setStrategy(strategy SearchStrategy) {
 	u.strategy = strategy
 }
 

@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// DeepSearch implements Strategy interface
+// DeepSearch implements SearchStrategy interface
 type DeepSearch struct{}
 
 func (f *DeepSearch) doSearch(filters map[string]int) {
