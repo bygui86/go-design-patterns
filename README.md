@@ -39,8 +39,15 @@ Design patterns: Strategy
 
 Folder: [search/](search)
 
+## Actuator
+
+Design patterns: Command
+
+Folder: [actuator/](actuator)
+
 ---
 
 ## TODO
 
-- [command](https://faun.pub/head-first-design-patterns-using-go-5-encapsulating-invocation-the-command-pattern-2f8c0a79d1c7)
+- [observer](https://faun.pub/head-first-design-patterns-using-go-1-keeping-your-objects-in-the-know-the-observer-pattern-948e6b5b66fc)
+- [decorator](https://faun.pub/head-first-design-patterns-using-go-3-decorating-objects-the-decorator-pattern-c35636722da7)
