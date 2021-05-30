@@ -45,9 +45,14 @@ Design patterns: Command
 
 Folder: [actuator/](actuator)
 
+## Weather station
+
+Design patterns: Observer
+
+Folder: [weather-station/](weather-station)
+
 ---
 
 ## TODO
 
-- [observer](https://faun.pub/head-first-design-patterns-using-go-1-keeping-your-objects-in-the-know-the-observer-pattern-948e6b5b66fc)
 - [decorator](https://faun.pub/head-first-design-patterns-using-go-3-decorating-objects-the-decorator-pattern-c35636722da7)
