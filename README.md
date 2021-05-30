@@ -51,8 +51,8 @@ Design patterns: Observer
 
 Folder: [weather-station/](weather-station)
 
----
+## Coffee machine
 
-## TODO
+Design patterns: Decorator
 
-- [decorator](https://faun.pub/head-first-design-patterns-using-go-3-decorating-objects-the-decorator-pattern-c35636722da7)
+Folder: [coffee-machine/](coffee-machine)
