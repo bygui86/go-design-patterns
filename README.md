@@ -21,6 +21,12 @@ Design patterns: Singleton
 
 Folder: [singleton/](singleton)
 
+## Option
+
+Design patterns: Option
+
+Folder: [option/](option)
+
 ## Payment
 
 Design patterns: Adapter
